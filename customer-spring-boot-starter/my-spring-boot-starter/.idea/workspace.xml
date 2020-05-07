@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e305a125-e942-4dbf-8908-e15ad712735e" name="Default Changelist" comment="" />
+    <list default="true" id="e305a125-e942-4dbf-8908-e15ad712735e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../my-spring-boot-starter-config/src/main/java/com/example/starter/config/EnableUserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-spring-boot-starter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-spring-boot-starter-config/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-spring-boot-starter-config/.idea/my-spring-boot-starter-config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-spring-boot-starter-config/.idea/my-spring-boot-starter-config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-spring-boot-starter-config/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-spring-boot-starter-config/target/classes/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-spring-boot-starter-config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../my-spring-boot-starter-config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-spring-boot-starter-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../my-spring-boot-starter-config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-spring-boot-starter-config/target/my-spring-boot-starter-config-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../my-spring-boot-starter-config/target/my-spring-boot-starter-config-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-spring-boot-starter-config/target/my-spring-boot-starter-config-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-start-example" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-start-example" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -15,13 +32,18 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1bZSeF75vNJ7ET0TMkK2MsPXPdB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588767105450</updated>
       <workItem from="1588767108890" duration="1668000" />
+      <workItem from="1588838216442" duration="310000" />
     </task>
     <servers />
   </component>
